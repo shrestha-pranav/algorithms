@@ -10,7 +10,7 @@ index = {"partition_seq1": "Partition.ipynb",
 
 modules = ["partition.py"]
 
-doc_url = "https://shrestha-pranav.github.io/algorithms/"
+doc_url = "https://shrestha-pranav.github.io/algorithms//algorithms/"
 
 git_url = "https://github.com/shrestha-pranav/algorithms/tree/master/"
 
